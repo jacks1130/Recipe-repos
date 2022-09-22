@@ -15,3 +15,10 @@ h1 {
 .short-desc {
     font-family: Helvetica, Arial, sans-serif; color: #341600;
 }
+h3 {
+    display: inline-flex;
+    margin: .5em;padding: .2em;
+}
+.main-div {
+    background-color: #c6ba9b47;
+}

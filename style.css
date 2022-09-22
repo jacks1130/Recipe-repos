@@ -1,0 +1,17 @@
+.color1 {color: #341600;}
+.color2 {color: #5d4609;}
+.color3 {color: #00a1ff;}
+.color4 {color: #bdc8ff;}
+.color5 {color: #fff8ff;}
+a {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;color: #341600;text-decoration: none;
+}
+html {
+    background-color: #fff8ff;
+}
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;color: #5d4609;
+}
+.short-desc {
+    font-family: Helvetica, Arial, sans-serif;
+}
